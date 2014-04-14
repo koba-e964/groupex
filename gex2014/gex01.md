@@ -41,5 +41,5 @@ _x_<sup>_p_</sup>=_e_, _x_ ≠ _e_
 群_G_の要素_x_∈_G_について、_x_<sup>_m_</sup>=_e_となるような最小の正の整数_m_が存在する場合、_m_を_x_の位数(order)という。
 
 ## 参考資料
-群の公理[物理のかぎしっぽ] http://hooktail.sub.jp/algebra/GroupAxiom/
+群の公理[物理のかぎしっぽ] http://hooktail.sub.jp/algebra/GroupAxiom/ <br>
 群 (数学) - Wikipedia http://ja.wikipedia.org/wiki/%E7%BE%A4_(%E6%95%B0%E5%AD%A6)
