@@ -11,8 +11,8 @@ qnighyŽ‚Ì[Coq‰‰K](http://qnighy.github.io/coqex2014/)‚ÉG”­‚³‚ê‚ÄAŽ©•ª‚Å‚à•œ
 ### ’ño‚É‚Â‚¢‚Ä
  ‚Ü‚¾l‚¦‚Ä‚¢‚Ü‚¹‚ñ‚ªA‘å‘Ì1TŠÔ‚©‚ç1‚©ŒŽ‚ð‚ß‚Ç‚É’ñoŠúŒÀ‚ðÝ‚¯‚æ‚¤‚ÆŽv‚¢‚Ü‚·B’ño‚·‚é‚Æ‚«‚ÍTwitterƒAƒJƒEƒ“ƒg(@kobae964)‚ÉƒŠƒvƒ‰ƒC‚Å‘—‚Á‚Ä‚­‚¾‚³‚¢Bgist‚âideone.com‚È‚Ç‰½‚Å‚à\‚¢‚Ü‚¹‚ñ‚ªƒŠƒ“ƒNæ‚ª‚·‚®‰ð“š‚É‚È‚Á‚Ä‚¢‚é‚æ‚¤‚É‚µ‚Ä‚¢‚½‚¾‚¯‚é‚ÆŠð‚µ‚¢‚Å‚·B‚à‚µ‚©‚µ‚½‚ç“_”‚ð•t‚¯‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
 ## —\’è
- * [‘æ1‰ñ](https://github.com/koba-e964/groupex/blob/master/gex2014/gex01.md) ŒQ‚ÌŒö—
- * ‘æ2‰ñ „‰ñŒQA‘ÎÌŒQAŒð‘ãŒQA‰ñ“]ŒQA‰Á–@ŒQ
+ * [‘æ1‰ñ](./gex01.md) ŒQ‚ÌŒö—
+ * [‘æ2‰ñ](./gex02.md) „‰ñŒQA‘ÎÌŒQAŒð‘ãŒQA‰ñ“]ŒQA‰Á–@ŒQ
  * ‘æ3‰ñ •”•ªŒQAè—]—ÞA³‹K•”•ªŒQA¤ŒQAŒQ‚Ì€“¯Œ^AŒQ‚Ì“¯Œ^
  * ‘æ4‰ñ ŒQ‚Ìì—p
  * ‘æ5‰ñˆÈ~ –¢’è
